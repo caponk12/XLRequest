@@ -4,6 +4,7 @@ Tembak paket xl
 chmod 777 count_file.txt
 
 group fb : https://web.facebook.com/groups/1528714680491086/
+download zip : https://codeload.github.com/adipatiarya/XLRequest/zip/master
 
 asumsikan semua file ditaruh di public_html
 
